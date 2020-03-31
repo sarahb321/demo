@@ -1,14 +1,16 @@
 {
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "profile": {
-    "name": "typicode"
+  "policyNumber": "22492984",
+  "policyHolderDob": "1984-04-07",
+  "postCode": "b11bb",
+  "policydetails" : {
+    "policyStatus": "N", 
+    "trpType": "AMT", 
+    "issueDate": "2020-03-17", 
+    "startDate": "2019-04-11", 
+    "endDate": "2020-04-10", 
+    "travelArea": "Europe", 
+    "previousPolicyNumber": null, 
+    "previousPolicyExpiryDate": null
   }
 }
+    
