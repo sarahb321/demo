@@ -1,8 +1,6 @@
 {
-  "policyNumber": "22492984",
-  "policyHolderDob": "1984-04-07",
-  "postCode": "b11bb",
-  "policydetails" : {
+  "policydetails": [
+   {
     "policyStatus": "N", 
     "trpType": "AMT", 
     "issueDate": "2020-03-17", 
@@ -11,6 +9,6 @@
     "travelArea": "Europe", 
     "previousPolicyNumber": null, 
     "previousPolicyExpiryDate": null
-  }
+   }
+  ]
 }
-    
