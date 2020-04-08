@@ -81,18 +81,48 @@
   ],
   "advisories": [
     {
-      "id": "1050118621198921728",
-      "advisoryDate": "2017-02-17T00:00:00",
+      "date": "2017-02-17T00:00:00",
       "country": "India",
-      "region": "          ",
-      "advisoryData": "#India To make room for more expression, we will now count all emojis as equal?including those with gender??? and skin t? https://t.co/MkGjXf9aXm"
+      "regions":[
+                {
+                  "name": "Delhi",
+                  "date": "2017-02-17T00:00:00",
+                  "locationType": "City",
+                  "code": "C1",
+                  "advice": "Delhi test advice"
+                },
+                {
+                  "name": "Mumbai",
+                  "date": "2017-02-17T00:00:00",
+                  "locationType": "City",
+                  "code": "C2",
+                  "advice": "Mumbai test advice"
+                }
+          ], 
+      "code": "TST1",
+      "advice": "#India To make room for more expression, we will now count all emojis as equal?including those with gender??? and skin t? https://t.co/MkGjXf9aXm"
     },
     {
-      "id": "1050118621198921729",
-      "advisoryDate": "1905-06-25T00:00:00",
+      "date": "2020-02-17T00:00:00",
       "country": "India",
-      "region": "          ",
-      "advisoryData": "#India To make room for more expression, we will now count all emojis as equal?including those with gender??? and skin t? https://t.co/MkGjXf9aXm"
+      "regions":[
+                {
+                  "name": "Bengaluru",
+                  "date": "2020-02-17T00:00:00",
+                  "locationType": "City",
+                  "code": "C3",
+                  "advice": "Bengaluru test advice"
+                },
+                {
+                  "name": "Hyderabad",
+                  "date": "2020-02-17T00:00:00",
+                  "locationType": "City",
+                  "code": "C4",
+                  "advice": "Hyderabad test advice"
+                }
+          ],
+      "code": "TST2",
+      "advice": "#India To make room for more expression, we will now count all emojis as equal?including those with gender??? and skin t? https://t.co/MkGjXf9aXm"
     }
 
   ]
