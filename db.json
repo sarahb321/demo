@@ -80,50 +80,50 @@
     }
   ],
   "advisories": [
+  {
+  "date": "2020-01-21T00:00:00",
+  "country": "Spain",
+  "regions": [
     {
-      "date": "2017-02-17T00:00:00",
-      "country": "India",
-      "regions":[
-                {
-                  "name": "Delhi",
-                  "date": "2017-02-17T00:00:00",
-                  "locationType": "City",
-                  "code": "C1",
-                  "advice": "Delhi test advice"
-                },
-                {
-                  "name": "Mumbai",
-                  "date": "2017-02-17T00:00:00",
-                  "locationType": "City",
-                  "code": "C2",
-                  "advice": "Mumbai test advice"
-                }
-          ], 
-      "code": "TST1",
-      "advice": "#India To make room for more expression, we will now count all emojis as equal?including those with gender??? and skin t? https://t.co/MkGjXf9aXm"
+      "name": "Catalonia",
+      "date": "2020-01-10T00:00:00",
+      "locationType": "Region",
+      "code": "DNT",
+     "advice": "FCO advises against all but essential travel"
     },
     {
-      "date": "2020-02-17T00:00:00",
-      "country": "Spain",
-      "regions":[
-                {
-                  "name": "Bengaluru",
-                  "date": "2020-02-17T00:00:00",
-                  "locationType": "City",
-                  "code": "C3",
-                  "advice": "Bengaluru test advice"
-                },
-                {
-                  "name": "Hyderabad",
-                  "date": "2020-02-17T00:00:00",
-                  "locationType": "City",
-                  "code": "C4",
-                  "advice": "Hyderabad test advice"
-                }
-          ],
-      "code": "TST2tr",
-      "advice": "#India To make room for more expression, we will now count all emojis as equal?including those with gender??? and skin t? https://t.co/MkGjXf9aXm"
+      "name": "Madrid",
+      "date": "2020-01-10T00:00:00",
+      "locationType": "Region",
+      "code": "DNT",
+     "advice": "FCO advises against all but essential travel"
     }
+  ],
+  "code": "DNT",
+  "advice": "FCO advises against all but essential travel"
+},
+{
+  "date": "0001-01-01T00:00:00",
+  "country": "Italy",
+  "regions": [
+    {
+      "name": "Lombardy",
+      "date": "2020-02-21T00:00:00",
+      "locationType": "Region",
+      "code": "DNT",
+      "advice": "FCO advises against all but essential travel"
+   }
+  ],
+  "code": null,
+  "advice": null
+},
+{
+  "date": "2020-02-19T00:00:00",
+  "country": "France",
+  "regions": [],
+  "code": "DNT",
+  "advice": "FCO advises against all but essential travel"
+}
 
-  ]
+]
 }
