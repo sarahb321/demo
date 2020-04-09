@@ -81,19 +81,19 @@
   ],
   "advisories": [
   {
-  "date": "2020-01-21T00:00:00",
+  "date": "2020-03-27T00:00:00",
   "country": "Spain",
   "regions": [
     {
       "name": "Catalonia",
-      "date": "2020-01-10T00:00:00",
+      "date": "2020-03-27T00:00:00",
       "locationType": "Region",
       "code": "DNT",
      "advice": "FCO advises against all but essential travel"
     },
     {
       "name": "Madrid",
-      "date": "2020-01-10T00:00:00",
+      "date": "2020-03-27T00:00:00",
       "locationType": "Region",
       "code": "DNT",
      "advice": "FCO advises against all but essential travel"
@@ -103,7 +103,7 @@
   "advice": "FCO advises against all but essential travel"
 },
 {
-  "date": "0001-01-01T00:00:00",
+  "date": "2020-03-27T00:00:00",
   "country": "Italy",
   "regions": [
     {
@@ -118,7 +118,7 @@
   "advice": null
 },
 {
-  "date": "2020-02-19T00:00:00",
+  "date": "2020-03-27T00:00:00",
   "country": "France",
   "regions": [],
   "code": "DNT",
