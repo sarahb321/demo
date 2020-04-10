@@ -104,7 +104,37 @@
       "advice": "FCO advises against all but essential travel"
     },
     {
+      "date": "2020-03-13T00:00:00",
+      "country": "Spain",
+      "regions": [
+        {
+          "name": "Catalonia",
+          "date": "2020-03-27T00:00:00",
+          "locationType": "Region",
+          "code": "DNT",
+          "advice": "FCO advises against all but essential travel"
+        }
+      ],
+      "code": "DNT",
+      "advice": "FCO advises against all but essential travel"
+    },
+    {
       "date": "2020-03-27T00:00:00",
+      "country": "Italy",
+      "regions": [
+        {
+          "name": "Lombardy",
+          "date": "2020-02-21T00:00:00",
+          "locationType": "Region",
+          "code": "DNT",
+          "advice": "FCO advises against all but essential travel"
+        }
+      ],
+      "code": null,
+      "advice": null
+    },
+    {
+      "date": "2020-02-25T00:00:00",
       "country": "Italy",
       "regions": [
         {
@@ -140,30 +170,6 @@
       "content": "Dummy chatbot content for 1.1",
       "SendLink": "false",
       "link": "/link/advice/1.1"
-    },
-    {
-      "number": "1.2",
-      "content": "Dummy chatbot content for 1.2",
-      "SendLink": "false",
-      "link": "/link/advice/1.2"
-    },
-    {
-      "number": "1.3",
-      "content": "Dummy chatbot content for 1.3",
-      "SendLink": "false",
-      "link": "/link/advice/1.3"
-    },
-    {
-      "number": "1.3",
-      "content": "Dummy chatbot content for 1.3",
-      "SendLink": "false",
-      "link": "/link/advice/1.3"
-    },
-    {
-      "number": "2.0.1",
-      "content": "Dummy chatbot content for 2.0.1",
-      "SendLink": "false",
-      "link": "/link/advice/2.0.1"
     }
   ]
 
