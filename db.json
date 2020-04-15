@@ -124,10 +124,10 @@
       "regions": [
         {
           "name": "Lombardy",
-          "date": "2020-02-21T00:00:00",
+          "date": "2020-03-20T00:00:00",
           "locationType": "Region",
           "code": "DNT",
-          "advice": "FCO advises against all but essential travel"
+          "advice": "FCO advises against all but essential travel to Lombardy"
         }
       ],
       "code": null,
@@ -138,11 +138,11 @@
       "country": "Italy",
       "regions": [
         {
-          "name": "Lombardy",
-          "date": "2020-02-21T00:00:00",
+          "name": "Veneto",
+          "date": "2020-04-03T00:00:00",
           "locationType": "Region",
           "code": "DNT",
-          "advice": "FCO advises against all but essential travel"
+          "advice": "FCO advises against all but essential travel to Lombardy and Veneto"
         }
       ],
       "code": null,
