@@ -130,12 +130,12 @@
       "advice": "FCO advises against all but essential travel"
     },
     {
-      "date": "2020-03-27T00:00:00",
+      "date": "2020-04-12T00:00:00",
       "country": "Italy",
       "regions": [
         {
           "name": "Lombardy",
-          "date": "2020-02-21T00:00:00",
+          "date": "2020-04-12T00:00:00",
           "locationType": "Region",
           "code": "DNT",
           "advice": "FCO advises against all but essential travel"
@@ -145,19 +145,19 @@
       "advice": null
     },
     {
-      "date": "2020-04-02",
+      "date": "2020-04-13",
       "country": "Italy",
       "regions": [
         {
           "name": "Lombardy",
-          "date": "2020-02-21T00:00:00",
+          "date": "2020-04-13T00:00:00",
           "locationType": "Region",
           "code": "DNT",
-          "advice": "FCO advises against all but essential travel"
+          "advice": "FCO advises against all but essential travel different"
         }
       ],
       "code": null,
-      "advice": "FCO advises against all but essential travel"
+      "advice": "FCO advises against all but essential travel different"
     },
     {
       "date": "2020-03-27T00:00:00",
