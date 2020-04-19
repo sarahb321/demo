@@ -139,36 +139,18 @@
       ],
       "code": "DNT",
       "advice": "FCO advises against all but essential travel"
+    },  
+   {
+      "date": "2020-04-14T00:00:00",
+      "country": "Italy",
+      "code": "DNT",
+      "advice": "FCO advises against all but essential travel to Lombardy & Venetia"
     },
     {
-      "date": "2020-03-27T00:00:00",
+      "date": "2020-04-15T00:00:00",
       "country": "Italy",
-      "regions": [
-        {
-          "name": "Lombardy",
-          "date": "2020-02-21T00:00:00",
-          "locationType": "Region",
-          "code": "DNT",
-          "advice": "FCO advises against all but essential travel"
-        }
-      ],
-      "code": null,
-      "advice": null
-    },
-    {
-      "date": "2020-04-12T00:00:00",
-      "country": "Italy",
-      "regions": [
-        {
-          "name": "Lombardy",
-          "date": "2020-02-21T00:00:00",
-          "locationType": "Region",
-          "code": "DNT",
-          "advice": "FCO advises against all but essential travel"
-        }
-      ],
-      "code": null,
-      "advice": "FCO advises against all but essential travel"
+      "code": "DNT",
+      "advice": "FCO advises against all but essential travel to Lombardy & Venetia"
     },
     {
       "date": "2020-03-27T00:00:00",
